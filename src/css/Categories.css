@@ -1,0 +1,23 @@
+.lcategories{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  font-size: 0.9em;
+  width: 350px;
+}
+
+.categories{
+  padding-top: 80px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.catmenu{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 1.2em;
+  width: 400px;
+  color:#f1f1f1;
+}

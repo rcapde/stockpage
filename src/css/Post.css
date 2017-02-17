@@ -1,0 +1,59 @@
+@media (min-width: 100px)  {
+  .post{
+    height: 200px;
+    width:200px;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-align: left;
+    padding-top: 100px;
+  }
+  .postcover{
+  }
+  .posttitle{
+    font-size:1.2em;
+    font-weight: bold;
+    color:#222;
+  }
+}
+
+@media (min-width: 900px)  {
+  .post{
+    height: 200px;
+    width:200px;
+    padding-left: 60px;
+    padding-right: 60px;
+    font-size: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-align: left;
+    padding-top: 100px;
+  }
+  .posttitle{
+    font-size:1.2em;
+    font-weight: bold;
+  }
+  .postdate{
+    font-size: 1.1em;
+    color:#444;
+    padding-top: 5px;
+  }
+  .postcontent{
+    font-size: 1.3em;
+    padding-top: 20px;
+  }
+  .continue{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    width: 100%;
+    padding-top: 30px;
+    color: #1E8BC3;
+  }
+}

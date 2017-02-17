@@ -1,0 +1,24 @@
+.gallery{
+  padding-top: 100px;
+  font-weight: bold;
+  font-size: 2em;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.photo_section{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 94%;
+  margin:3%;
+}
+.photo{
+  padding-left: 3px;
+  padding-right: 3px;
+}
+.gallerytitle{
+  font-size: 0.9em;
+  font-weight: lighter;
+  padding-top: 20px;
+}

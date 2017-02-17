@@ -1,0 +1,23 @@
+.footer{
+  width: 100%;
+  height:200px;
+  margin-top: 500px;
+  background-color: #111;
+}
+.footer_content{
+  padding-top: 70px;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  color:#d1d1d1;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  text-align: left;
+}
+.links div{
+  padding-bottom: 10px;
+}
+.copyright{
+
+}

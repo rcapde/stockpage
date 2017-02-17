@@ -1,0 +1,20 @@
+{
+	"categories": {
+		"nature": {
+      "title": "Age in years",
+      "imatges": ["solet","nubolet"]
+		},
+		"people": {
+      "title": "Age in years",
+      "imatges": ["solet","nubolet"]
+		},
+		"weather": {
+			"title": "Age in years",
+			"imatges": ["solet","nubolet"]
+		},
+    "sports": {
+      "title": "Age in years",
+			"imatges": ["solet","nubolet"]
+    }
+	}
+}

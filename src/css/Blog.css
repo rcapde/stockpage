@@ -1,0 +1,29 @@
+.blog{
+  width: 100%;
+  min-height: 100vh;
+  background-color: inherit;
+  color: #222;
+  position: relative;
+  z-index: 0;
+  padding-top:120px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.blogtitle{
+  padding-bottom: 0px;
+  font-weight: bold;
+  font-size: 2em;
+  color:#f1f1f1;
+  padding-left: 200px;
+}
+.postsline{
+  padding-left: 150px;
+  width:80%;
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
