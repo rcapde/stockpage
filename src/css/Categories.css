@@ -21,3 +21,6 @@
   width: 400px;
   color:#f1f1f1;
 }
+.active{
+  font-weight: bold;
+}

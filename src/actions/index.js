@@ -1,4 +1,4 @@
-export const FETCH_POST = 'FETCH_POST';
+export const FETCH_PHOTO = 'FETCH_PHOTO';
 export const FETCH_CAT = 'FETCH_CAT';
 
 import myData from './data.json';
@@ -6,11 +6,11 @@ import myData from './data.json';
 const data = myData;
 
 
-export function fetchPost(postid) {
+export function fetchPhoto(photoid) {
 
   return {
-    type: FETCH_POST,
-    payload: postid
+    type: FETCH_PHOTO,
+    payload: photoid
   };
 }
 

@@ -1,20 +1,24 @@
 {
 	"categories": {
 		"nature": {
-      "title": "Age in years",
-      "imatges": ["solet","nubolet"]
+      "title": "Nature",
+      "imatges": ["nature1.jpeg","nature2.jpeg","nature3.jpeg","nature4.jpeg"]
 		},
 		"people": {
-      "title": "Age in years",
-      "imatges": ["solet","nubolet"]
+      "title": "People",
+      "imatges": ["people1.jpg","people2.jpeg","people3.jpeg","people4.jpg","people5.jpeg","people6.jpg"]
 		},
 		"weather": {
-			"title": "Age in years",
-			"imatges": ["solet","nubolet"]
+			"title": "Weather",
+			"imatges": ["weather1","weather2","weather3","weather4","weather5","weather6"]
 		},
     "sports": {
-      "title": "Age in years",
-			"imatges": ["solet","nubolet"]
-    }
+      "title": "Sports",
+			"imatges": ["sports1","sports2"]
+    },
+		"featured": {
+			"title": "Featured",
+			"imatges": ["featured5.jpeg","featured2.jpeg","featured3.jpeg","featured4.jpg","featured1.jpeg","featured6.jpeg"]
+		}
 	}
 }

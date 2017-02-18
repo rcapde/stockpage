@@ -1,12 +1,7 @@
 import React, { Component } from 'react';
 import '../css/Navbar.css';
-import { Link,IndexLink } from 'react-router'
-import LittleSearchbar from './littlesearchbar';
+import { IndexLink } from 'react-router'
 import LittleCategories from './littlecategories';
-
-
-const items = ['Nature','People','Weather','Sports'];
-
 
 class Navbar extends Component {
 
@@ -14,7 +9,7 @@ class Navbar extends Component {
 
     return (
       <div className="navbar">
-        <div className="logo"><IndexLink className="link" to={'instagram'} activeClassName="active">Logo</IndexLink></div>
+        <div className="logo"><IndexLink className="link" to={'instagram'} activeClassName="active">FreeCover</IndexLink></div>
         <div className="menu">
           <LittleCategories />
         </div>
